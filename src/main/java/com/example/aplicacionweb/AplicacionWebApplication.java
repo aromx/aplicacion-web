@@ -24,6 +24,7 @@ public class AplicacionWebApplication {
 		Empleado instancia =new Empleado("Arturo","Devops");
 		Empleado otra =new Empleado("Peter","Programador");
 		Empleado ultimo =new Empleado("Pedro","Programador");
+		Empleado nuevo =new Empleado("Carlos","DevOps");
 
 
 
